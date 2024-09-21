@@ -34,12 +34,12 @@ I’m Lakindu, an enthusiastic tech lover with a passion for programming. Curren
 ## 💼 My Projects
 
 ### 🌟 Marks Management System
-Description: It is a fully functional marks management system developed for the Faculty of Technology, University of Ruhuna. This system replaces the entire manual marks processing workflow, making it more efficient and effective.
+  It is a fully functional marks management system developed for the Faculty of Technology, University of Ruhuna. This system replaces the entire manual marks processing workflow, making it more efficient and effective.
 ### 🌟 Karmikaya.lk
-Description: This is a web application where users can register as technicians to offer their skills as services, while others can register as clients to consume those services.
+  This is a web application where users can register as technicians to offer their skills as services, while others can register as clients to consume those services.
 
 ### 🌟 Pharmacy Management System
-Description: This is a desktop application designed for pharmacies, allowing them to manage stock, sales, and orders. Specially this system has the ability to manage remote medicine orders.
+  This is a desktop application designed for pharmacies, allowing them to manage stock, sales, and orders. Specially this system has the ability to manage remote medicine orders.
 
 ---
 
