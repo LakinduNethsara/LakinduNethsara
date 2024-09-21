@@ -9,7 +9,7 @@
 
 I’m Lakindu, an enthusiastic tech lover with a passion for programming. Currently pursuing my degree in ICT at the Faculty of Technology, University of Ruhuna. I love to explore, learn, and build things using cutting-edge technologies!
 
-- 🌱 I’m always eager to expand my knowledge, with a strong focus on the latest tools and technologies.
+- 🌱 I’m always eager to expand my knowledge.
 - 💡 I enjoy solving complex problems and participating in coding challenges.
 - 💻 I have a knack for **Object-Oriented Programming (OOP)**, and I've developed mini-projects that demonstrate OOP concepts in action!
 
