@@ -1,7 +1,7 @@
 # Hi there, I'm Lakindu Nethsara 👋
 
 🎓 **Undergraduate** | Bachelor of Information and Communication Technology  
-🏫 **University of Ruhuna** 
+🏫 **Faculty of Technology, University of Ruhuna** 
 
 ---
 
