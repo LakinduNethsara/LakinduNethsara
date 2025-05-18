@@ -18,13 +18,13 @@ I’m Lakindu, an enthusiastic tech lover with a passion for programming. Curren
 ## ⚡️ Technologies & Tools
 
 ### Languages  
-- Java | Python | JavaScript | SQL  
+- Java | Python | C | JavaScript | SQL
 
 ### Web Development  
-- HTML5 | CSS | React | Node.js | Spring Boot  
+- HTML5 | PHP | CSS | React | Node.js | Spring Boot  
 
 ### Databases  
-- MySQL  
+- MySQL | MSSQL
 
 ### Tools  
 - Git | Maven | Postman  
